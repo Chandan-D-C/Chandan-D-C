@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋Hi, I am Chandan...
 🔭 Currently working on: Building Java Full Stack applications as a Java Full Stack Trainee at Dhee Coding Lab.<br>🤝 Looking to collaborate on: Full-stack applications, AI/ML projects, Generative AI, and data-driven solutions.<br>🌱 Currently learning: Java, Spring Boot, REST APIs, React.js, SQL, and modern software development practices.<br>💬Ask me about: Java, Python, SQL, Spring Boot, REST APIs, Machine Learning, Computer Vision, RAG, and Data Science.<br>⚡Fun fact: I enjoy combining software development and AI to build practical solutions for real-world problems..<br>
 
 
